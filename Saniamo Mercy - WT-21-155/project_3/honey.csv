@@ -1,0 +1,128 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,169,,1290,,1290.632,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,270,,1522,,1522.76,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,360,,4441,,4441.382,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,501,,5420,,5420.963,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,287,,2715,,2715.898,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,21129,,84411,,84411.026,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,181,,3452,,3452.517,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,580,,4110,,4110.213,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,15348,,67860,,67860.3,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,183,,1247,,1247.301,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,31,,1465,,1465.501,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,31,,464,,464.256,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,370,,7974,,7974.371,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,9655,,105415,,105415.515,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,347,,5000,,5000.037,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,365,,2723,,2723.635,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1021,,9871,,9871.63,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,259,,13695,,13695.552,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2697,,31852,,31852.604,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,53,,961,,961.01,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,246,,8191,,8191.023,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,836,,11157,,11157.619,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,8031,,84172,,84172.708,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,146,,2435,,2435.796,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,248,,3291,,3291.575,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,224,,3461,,3461.802,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,559,,4213,,4213.897,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,54,,996,,996.603,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,9520,,364906,,364906.764,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,73,,1542,,1542.877,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,744,,5897,,5897.599,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,972,,12076,,12076.846,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,4561,,134063,,134063.205,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,3091,,41801,,41801.61,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,24646,,114445,,114445.294,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,99,,733,,733.524,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,22743,,495664,,495664.466,0
+H4,2015,201505,201505,4,0,0,X,826,United Kingdom,GBR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,130630,,1644950,,1644950.312,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,43200,,183503,183503.374,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,21000,,85746,85746.536,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,21000,,88180,88180.785,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,60938,,242310,242310.682,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,960,,5451,5451.913,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,199562,,2885104,2885104.984,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,20880,,78220,78220.946,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,520,,9429,9429.039,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,60777,,249630,249630.451,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,12707,,31444,31444.059,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,584,,3809,3809.994,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,256150,,974447,974447.036,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,60325,,223611,223611.997,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,40800,,182486,182486.653,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,32387,,195786,195786.04,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1246,,7968,7968.18,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1710,,13559,13559.37,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,51889,,174009,174009.339,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,33168,,183213,183213.988,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,4541,,28537,28537.816,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,56792,,612155,612155.581,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1466939,,2456027,2456027.209,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,4776,,21188,21188.644,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,47036,,46513,46513.809,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,160211,,558543,558543.299,,0
+H4,2015,201505,201505,4,0,0,M,826,United Kingdom,GBR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2660098,,9540881,9540881.725,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,41118,,158803,158803.781,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,112642,,2229021,2229021.641,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,525,,7570,7570.014,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,63048,,247492,247492.977,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1949,,12006,12006.668,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,59160,,172122,172122.827,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,66000,,235896,235896.522,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,103488,,559083,559083.581,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,20409,,97370,97370.266,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,80400,,195200,195200.697,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,5738,,30372,30372.391,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2931,,12129,12129.278,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,44082,,163078,163078.47,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,84946,,588049,588049.745,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,12432,,90163,90163.541,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,134657,,836779,836779.415,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1637169,,2540356,2540356.429,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,4099,,20064,20064.093,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,41273,,193547,193547.737,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,127351,,748586,748586.712,,0
+H4,2015,201501,201501,4,0,0,M,826,United Kingdom,GBR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2643417,,9137696,9137696.783,,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,8,,108,,108.986,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,9,,63,,63.575,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,40,,5889,,5889.807,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,26,,735,,735.658,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,897,,9477,,9477.276,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,597,,2090,,2090.42,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1000,,5962,,5962.464,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,4475,,47280,,47280.42,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,630,,7789,,7789.5,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2720,,11310,,11310.366,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,895,,6186,,6186.492,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1024,,6637,,6637.575,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,34,,331,,331.5,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2217,,23427,,23427.535,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,274,,8808,,8808.22,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,238,,1743,,1743.782,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,403,,4259,,4259.552,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2015,,13144,,13144.971,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,5488,,33386,,33386.167,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,580,,3835,,3835.716,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,519,,5511,,5511.382,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,436,,19526,,19526.73,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,249,,1985,,1985.974,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,12170,,118104,,118104.929,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,454,,4062,,4062.771,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,308,,4538,,4538.073,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,146,,4703,,4703.066,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,330,,6083,,6083.56,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2828,,36683,,36683.006,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,125,,4024,,4024.928,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1201,,31000,,31000.576,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,880,,43621,,43621.807,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,914,,19868,,19868.826,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1923,,62220,,62220.639,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,201,,3042,,3042.537,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2143,,26408,,26408.01,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,1730,,72133,,72133.86,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,3062,,32565,,32565.742,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,11177,,31061,,31061.124,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,2539,,50366,,50366.854,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,50771,,541376,,541376.319,0
+H4,2015,201501,201501,4,0,0,X,826,United Kingdom,GBR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,0409,Honey; natural,-1,N/A,,-1,N/A,,117676,,1311360,,1311360.694,0
