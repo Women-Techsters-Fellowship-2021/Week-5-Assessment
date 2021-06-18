@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,245802930,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,818,Egypt,,112,Belarus,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,14346108,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,3109606,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,213776521,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,14570695,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,162397845,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,14471074,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,135563547,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,12363224,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,267297002,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,818,Egypt,,36,Australia,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,17073599,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,818,Egypt,,100,Bulgaria,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,4853472,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,228359424,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,17010507,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,225518264,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,36,Australia,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,8549236,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,3659792,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,46420786,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,139526483,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,27361968,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,296279492,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,100,Bulgaria,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,2257339,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,440,Lithuania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,4101848,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,4914357,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,16152599,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,212162455,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,56690894,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,98484810,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,36,Australia,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,82245,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,100,Bulgaria,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,1122968,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,440,Lithuania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,2851652,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,29958220,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,36539935,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,27929790,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,161473226,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,36,Australia,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,8731208,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,100,Bulgaria,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,1118551,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,440,Lithuania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,1047419,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,8476497,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,31255902,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,75966709,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,34876939,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,214481419,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,100,Bulgaria,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,2853168,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,124,Canada,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,37429,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,59957852,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,133919875,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,17713095,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,274770552,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,818,Egypt,,36,Australia,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,21312010,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,49701143,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,176781575,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,26975823,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,300822228,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,350,,5997,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,818,Egypt,,642,Romania,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,17092016,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,240019327,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,43704889,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,266117271,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,818,Egypt,,124,Canada,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,13768093,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,6573168,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,203647097,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,42128913,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,290854212,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,400,,7993,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,818,Egypt,,616,Poland,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,2475251,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,818,Egypt,,643,Russian Federation,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,269540142,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,100119,"Cereals; wheat and meslin, durum wheat, other than seed",,,,,,,,,18830826,,,0
