@@ -1,0 +1,271 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Commodity Code,Commodity,Netweight (kg),Trade Value (US$),Flag
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,528,Netherlands,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,446708,505945,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,757,Switzerland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,286,3048,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,842,United States of America,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,24315,148700,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,251,France,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,558097,940447,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,372,Ireland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,59867950,21164834,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,251,France,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,736389,1260533,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,842,United States of America,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1649,19578,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,757,Switzerland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1020,10790,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,440,Lithuania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,6048,8500,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,40,Austria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,34920,37107,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,528,Netherlands,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,176153,315774,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,276,Germany,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,627592,450011,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,372,Ireland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,6915717,6875296,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,642,Romania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,35482,30122,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,381,Italy,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,16108,27454,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,703,Slovakia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,20422,23646,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,752,Sweden,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,85613,129702,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,23,68,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,56,Belgium,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,388549,371607,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,616,Poland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,553920,558887,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,620,Portugal,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,9244,9632,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,100,Bulgaria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,201700,153035,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,724,Spain,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,481753,419928,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,208,Denmark,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,11719,22504,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,348,Hungary,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,515,788,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,18934,17447,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,0,World,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,61833643,27673353,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2311,5850,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,634,Qatar,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,21290,61110,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2532,2477,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,60,Bermuda,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,112,1403,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,10,73,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,616,Poland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,102,876,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,608,Philippines,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,3467,2965,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,177614,338744,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,470,Malta,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,12261,21695,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,780,Trinidad and Tobago,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,6240,11259,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,40,Austria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,23,59,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,381,Italy,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1943,2529,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,620,Portugal,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2945,6250,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,702,Singapore,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,65625,153909,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,478,Mauritania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2757,2250,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,512,Oman,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,19472,60358,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,752,Sweden,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2,10,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,858,Uruguay,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,880,2929,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,276,Germany,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,453751,1142509,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,372,Ireland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,59616676,22934268,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,56,Belgium,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,221223,668811,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,705,Slovenia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,12,48,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,352,Iceland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1671,1094,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,20800,71871,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,348,Hungary,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,8,10,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,428,Latvia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1917,46536,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,724,Spain,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,67346,67203,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,31345,102313,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,703,Slovakia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2,24,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,196,Cyprus,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,94,242,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,156,China,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,11500,101764,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,300,Greece,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,288,782,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,246,Finland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,5,18,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,642,Romania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,110,2926,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,208,Denmark,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,38969,242599,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,0,World,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,62281665,26579413,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,528,Netherlands,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2074914,3970740,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,251,France,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,434378,999275,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,699,India,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,8600,36864,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,579,Norway,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,4085,69544,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,0,World,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,10555548,28733466,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,372,Ireland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1203605,2740657,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,757,Switzerland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,210,2071,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,699,India,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,21,3903,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,0,World,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,19528060,44190216,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,842,United States of America,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,58652,343298,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,251,France,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,399049,1089819,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,440,Lithuania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,28853,52192,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,642,Romania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3585,4830,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,372,Ireland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1310527,2973534,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,100,Bulgaria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,150,209,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,428,Latvia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3787,6488,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,724,Spain,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,261102,517078,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,208,Denmark,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,480,3054,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1850,6046,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,752,Sweden,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,11120,40592,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,276,Germany,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2418926,4720427,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,348,Hungary,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,11951,118682,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,251,France,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1089072,964025,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,0,World,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,23728581,13809166,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,251,France,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,666286,900508,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,0,World,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,10231764,10334570,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,208,Denmark,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,34145,114052,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,752,Sweden,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,44,234,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,392,Japan,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,910,6882,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,196,Cyprus,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,6790,19038,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,56,Belgium,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,544246,1570300,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,300,Greece,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,6,33,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,616,Poland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,123324,147028,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,702,Singapore,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1056,1150,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,7134,7610,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,470,Malta,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,14779,15336,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,634,Qatar,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1072,3856,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,48,Bahrain,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,387,1157,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,566,Nigeria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,12,1836,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,620,Portugal,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,3099,6226,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,512,Oman,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1397,2673,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,724,Spain,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,50200,68232,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,5744,78297,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,616,Poland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,327026,457409,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,528,Netherlands,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,763936,2181725,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,620,Portugal,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,117,407,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,381,Italy,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2565,28659,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,56,Belgium,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1427868,3315779,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,404,Kenya,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,400,2435,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,60,Bermuda,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,487,7216,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,724,Spain,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,64167,158253,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",402,Milk and cream; concentrated or containing added sugar or other sweetening matter,21005,50161,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,466,Mali,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,171500,716029,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,710,South Africa,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,118084,362374,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,193000,599644,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,104,Myanmar,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3475,52289,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,392,Japan,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,912,10868,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,233,Estonia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,12,56,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,887,Yemen,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,48000,145488,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,372,Ireland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1756428,2690501,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,40,Austria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,27,75,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,381,Italy,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,195823,587945,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,288,Ghana,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,104000,372693,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,376,Israel,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,500,6930,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,704,Viet Nam,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,12877,176078,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,804,Ukraine,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,452,1678,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,196,Cyprus,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,4332,17596,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3026,3272,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,117295,416872,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,400,Jordan,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,100000,265024,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,768,Togo,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,26000,107061,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,512,Oman,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,852,6149,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,792,Turkey,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,13582,50423,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,56,Belgium,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,639680,675555,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,414,Kuwait,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,75000,225073,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,36,Australia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,133756,484451,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,338000,1307941,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,324,Guinea,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,26000,107061,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,5,34,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,300,Greece,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2026,7292,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,440,Lithuania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3,20,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,266,Gabon,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,52000,224319,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,616,Poland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,462539,1053718,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,208,Denmark,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1630,6009,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,703,Slovakia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,24,94,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,348,Hungary,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,5136,20161,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,818,Egypt,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,394000,1109496,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,276,Germany,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,496717,1347461,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,428,Latvia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,527,12106,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,705,Slovenia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,7,20,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,642,Romania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,33,900,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,528,Netherlands,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,94232,194412,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,275840,500983,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,381,Italy,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,103,349,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2138,7265,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,348,Hungary,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,15,28,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,40,Austria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,81,636,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,246,Finland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,2,18,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,352,Iceland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1482,1078,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,440,Lithuania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,5184,7164,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,703,Slovakia,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,19693,23216,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,752,Sweden,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,135973,152855,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,300,Greece,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,65986,150817,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,616,Poland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,562330,521662,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,208,Denmark,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,490,2390,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,620,Portugal,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,1102,1558,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,642,Romania,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,3961,7683,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,276,Germany,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,467662,386772,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,422,Lebanon,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,225000,616084,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,28,Antigua and Barbuda,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,8000,26654,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,620,Portugal,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1281,3773,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,608,Philippines,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,25000,73632,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,50,Bangladesh,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,48000,128298,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,642,Romania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,21042,72904,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,12,Algeria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,250000,622619,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,156,China,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,351474,5788179,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,470,Malta,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,4799,23020,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,120,Cameroon,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,300000,1058726,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,458,Malaysia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,15000,46276,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,752,Sweden,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,109,1444,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,705,Slovenia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3,16,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,702,Singapore,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,25000,87258,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,276,Germany,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1106607,1146083,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,760,Syria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,200000,586860,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,178,Congo,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,144000,621190,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,484,Mexico,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,72321,277243,0
+HS,2020,202001,Jan-20,4,0,2,Exports,826,United Kingdom,,586,Pakistan,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,149900,448447,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,251,France,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,399423,1353987,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,0,World,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,8636865,19917599,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,251,France,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,522733,1889990,0
+HS,2020,202001,Jan-20,4,0,1,Imports,826,United Kingdom,,0,World,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,7096576,16317101,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,710,South Africa,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1632,1758,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,422,Lebanon,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,44000,191423,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,48,Bahrain,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,73619,224381,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,705,Slovenia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,12,30,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,36,Australia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,24500,118683,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,239148,569329,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,3677,8023,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,12,Algeria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1775000,5264880,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,788,Tunisia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,144000,316560,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,818,Egypt,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,537975,1293333,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,9285,13553,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,528,Netherlands,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,9094106,15739901,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,324,Guinea,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,120000,448286,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,608,Philippines,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,300000,832756,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,40,Austria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,166452,206744,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,233,Estonia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,30,170,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),402,Milk and cream; concentrated or containing added sugar or other sweetening matter,61,1593,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,348,Hungary,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,13451,32325,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,620,Portugal,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1100,3455,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,702,Singapore,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,222000,607262,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,466,Mali,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,60000,237917,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,50,Bangladesh,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,240000,714484,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,752,Sweden,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,342,1390,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1024,7519,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,300,Greece,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,22207,51460,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,381,Italy,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,18933,45615,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,434,Libya,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,51580,160422,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,740,Suriname,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,86960,316749,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,24950,54491,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,440,Lithuania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,83,263,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,586,Pakistan,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,260000,723769,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,764,Thailand,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,24000,53897,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,276,Germany,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,815058,1223575,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,616,Poland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,595325,894542,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,156,China,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,646010,3189539,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,191,Croatia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,7,70,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,480,Mauritius,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,60000,199099,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,196,Cyprus,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,379,2402,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,352,Iceland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,750,2434,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,56,Belgium,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,485555,537323,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,500000,1944408,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,376,Israel,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1771,5026,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,642,Romania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,33,81,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,703,Slovakia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,33,65,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,566,Nigeria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,400000,1265462,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,246,Finland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,9,45,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,120000,429102,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,724,Spain,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,5263,16207,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,208,Denmark,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1201,6873,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,470,Malta,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,717,2398,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1277,17434,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,887,Yemen,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,48000,116682,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,8,55,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,288,Ghana,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,485000,1388049,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,178,Congo,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,140000,527174,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,276,Germany,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2014169,3350725,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,642,Romania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,322,927,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,528,Netherlands,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1753692,3767753,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,616,Poland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,179361,243969,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,372,Ireland,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2139938,6577361,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,208,Denmark,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,2160,20656,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,440,Lithuania,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,117212,190619,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,724,Spain,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,923457,1472934,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,428,Latvia,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,337,924,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,56,Belgium,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1105716,2934930,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,620,Portugal,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,1078,2814,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,381,Italy,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,8846,21079,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,40,Austria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,231834,188978,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,372,Ireland,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,19463255,9994346,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,100,Bulgaria,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,663501,456582,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,442,Luxembourg,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,998,2256,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,724,Spain,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,692811,572612,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,78,104,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,528,Netherlands,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,41519,102435,0
+HS,2020,202006,Jun-20,4,0,1,Imports,826,United Kingdom,,56,Belgium,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,274286,252633,0
+HS,2020,202006,Jun-20,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,9135,14482,0
