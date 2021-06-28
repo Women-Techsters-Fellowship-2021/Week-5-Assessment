@@ -1,0 +1,259 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,8054350,,4863634,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,13578,,15914,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,270,,480,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,8054350,,4863634,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12384,,14166,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,924,,1268,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5588630,,3456994,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1819,,3511,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7290,,24552,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,24000,,14616,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,572,,695,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5557340,,3417826,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1247,,2816,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6345880,,3896646,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,23996,,25099,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4200,,2838,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,14504,,14160,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,50,,1174,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,24000,,14421,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,306,,318,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6317680,,3879387,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5082,,5483,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4054,,3964,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7981260,,4973837,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2048,,2248,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,24000,,14930,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,120,,347,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7957260,,4958907,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1928,,1901,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5177483,,3277721,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3735,,3733,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7893,,38210,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,48000,,29657,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2710,,2414,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5121590,,3209854,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1025,,1319,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4801830,,2990831,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1747,,2615,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,12,Algeria,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2,,75,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,108,Burundi,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,370,,436,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,590,,918,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,752,Sweden,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,15,,18,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4801830,,2990831,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,38,,98,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,732,,1070,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6130342,,3729401,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,16270,,12477,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7,,1,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,144000,,70755,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,100,,140,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,19,,23,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,13880,,9028,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,764,Thailand,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3792,,3297,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3713,,3143,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4,,2,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5978830,,3652206,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,103,,588,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2164,,2696,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5138931,,3250356,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1222,,1865,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,55200,,27999,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10,,120,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10,,18,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,57,,49,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,764,Thailand,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4,,2,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4,,16,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5083730,,3222280,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,42,,49,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1,,77,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1095,,1612,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6464653,,3946837,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3359,,4558,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,178,Congo,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3,,69,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5533,,17993,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10,,5,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21000,,9798,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12,,13,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,764,Thailand,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6,,5,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6437350,,3917276,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,816,,851,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21,,148,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2491,,3467,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,770,,1770,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5694848,,3524973,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4009,,5321,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,45004,,20955,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,50,,263,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,64,,220,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,19,,48,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1744,,1830,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5649780,,3503799,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,610,,586,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,15,,120,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1571,,2474,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6178376,,3734880,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2196,,4930,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,90006,,44363,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,276,,2649,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6088370,,3690517,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,528,,643,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,17,,140,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1375,,1498,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,171000,,444688,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,24000,,61899,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,702,Singapore,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6600,,3020,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,262500,,830070,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,26,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,36000,,106865,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,662,,1571,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1579,,5957,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,465,,2818,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,118,,350,,,0
+HS,2020,202006,June 2020,4,0,2,Exports,404,Kenya,,398,Kazakhstan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,996,,2788,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1,,2,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,750000,,2619525,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10,,273,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,108,Burundi,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,15,,1,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,250112,,801824,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,18000,,57227,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,144000,,424655,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10,,2,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,33,,7,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,225070,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,752,Sweden,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,41,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,32,,20,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10,,24,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4418,,3230,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,765000,,1995667,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,26,,82,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,1,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,764,Thailand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4320,,2492,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,973000,,3351424,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,236,,428,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1200,,8236,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7,,91,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,453298,,1365951,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1513530,,4817385,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,82,,138,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50,,50,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19993,,19665,,,0
+HS,2020,202006,June 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1162148,,3903509,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25,,429,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12636,,6733,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,510000,,1413256,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,990850,,3396617,,,0
+HS,2020,202012,December 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19,,350,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,256,,747,,,0
+HS,2020,202012,December 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,256,,747,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,97,,174,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6000,,4514,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,657893,,1789727,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,250,,1849,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10880,,10451,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4730,,3577,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4000,,3599,,,0
+HS,2020,202008,August 2020,4,0,2,Exports,404,Kenya,,764,Thailand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1,,1,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,443,,,0
+HS,2020,202008,August 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,500771,,1448582,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10,,165,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1070,,5181,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,62,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,360,Indonesia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,66,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,293930,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,15,,73,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8466,,5231,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6060,,4626,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,10,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19,,277,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,185498,,532560,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,46,,399,,,0
+HS,2020,202005,May 2020,4,0,1,Imports,404,Kenya,,699,India,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,830,,2045,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7558,,6247,,,0
+HS,2020,202005,May 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1460,,1604,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,457,,867,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12174,,53540,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,178,Congo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2,,35,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,480,,460,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,11175,,52142,,,0
+HS,2020,202010,October 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,60,,37,,,0
+HS,2020,202010,October 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1748213,,5361582,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,768,,7980,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1582,,9003,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1392631,,4201810,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,94,,266,,,0
+HS,2020,202011,November 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,720,,757,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1333,,1409,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,680300,,2270889,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,994,,3832,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,1,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,519995,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,510000,,1405632,,,0
+HS,2020,202011,November 2020,4,0,1,Imports,404,Kenya,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1,,51,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6900,,9060,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,625,,536,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2082,,3457,,,0
+HS,2020,202007,July 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,9607,,13053,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,144000,,458649,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,108,Burundi,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12,,1,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,144,Sri Lanka,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,5,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,124500,,320411,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,364,Iran,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,18000,,59723,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,96000,,308034,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,36000,,106235,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,1,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,682,Saudi Arabia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5724,,13120,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,29040,,99606,,,0
+HS,2020,202007,July 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8,,74,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,688807,,2022343,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,14426,,13437,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,108,Burundi,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,20,,10,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,156,China,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,13,,132,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100,,341,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100,,88,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,585000,,1753822,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,1,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4820,,4840,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,103000,,267043,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,568,,804,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,9600,,8491,,,0
+HS,2020,202004,April 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6,,106,,,0
+HS,2020,202004,April 2020,4,0,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1,,101,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,435,,917,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,899,"Areas, nes",,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,28658,,27732,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,34823,,35216,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5160,,5991,,,0
+HS,2020,202002,February 2020,4,0,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,570,,577,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,286000,,794603,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,1,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150600,,495252,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,42,,44,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,512950,,1490423,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,646,Rwanda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,13,,2,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,699,India,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3032,,7921,,,0
+HS,2020,202002,February 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,952642,,2788248,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,28707,,21749,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,12,Algeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10,,13,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10240,,11297,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,251,,587,,,0
+HS,2020,202003,March 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39208,,33647,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8,,104,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,275000,,899330,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6552,,3203,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39,,79,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,36000,,101632,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,764,Thailand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3360,,2038,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,257000,,730904,,,0
+HS,2020,202003,March 2020,4,0,1,Imports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,577959,,1737291,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7680,,8313,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,837,Bunkers,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,163,,396,,,0
+HS,2020,202001,January 2020,4,0,2,Exports,404,Kenya,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,13940,,13397,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,324975,,926089,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,422,Lebanon,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,41,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150036,,412013,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,36000,,99577,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7,,14,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,43,,422,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,784,United Arab Emirates,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2227,,972,,,0
+HS,2020,202001,January 2020,4,0,1,Imports,404,Kenya,,800,Uganda,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,144600,,350598,,,0

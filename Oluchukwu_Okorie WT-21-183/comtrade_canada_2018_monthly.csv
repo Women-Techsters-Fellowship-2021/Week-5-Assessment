@@ -1,0 +1,519 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,402721,,454116,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,605400,,600205,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,348,,267,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,13270,,9021,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5131,,3233,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,2410695,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,576414,,609215,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3464,,1793,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10408,,4976,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,869481,,806376,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,948,,767,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4324,,2870,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12793,,9052,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1401428,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3856767,,1806906,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2168570,,1091581,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2233772,,1336457,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,2291205,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,284885,,181792,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,15296,,10272,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1228,,954,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,2491172,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,721,,986,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,,,177,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,11876,,7929,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,203,,161,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,35900,,16508,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2900,,4370,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,20563,,114711,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,703,Slovakia,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1,,6,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,57577,,209004,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,582605,,621667,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,517916,,551582,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,5766702,,2099538,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,113,,89,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,70,,53,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1836987,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,581306,,592538,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6301,,1664,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1820787,,19498,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21600,,16446,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,303210,,337476,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,477130,,517562,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,582632,,595854,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,2506397,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,515669,,526049,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,606497,,637584,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,22,,19,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,49741,,31541,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,13516,,9277,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1345896,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,516012,,570325,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,400,,51,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12400,,7270,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,40,,55,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,29849,,169816,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,4800,,2149,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,795,,627,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,223877,,145151,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12102,,8290,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1714,,5675,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,18278,,87050,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3163,,1977,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19856,,48384,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,55448,,64516,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,4,Afghanistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,49975,,82955,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,44624,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,152,Chile,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,299900,,492181,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,30000,,52500,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8296,,21052,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,186200,,311546,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,304,Greenland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39,,98,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,77505,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,320,,713,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,400000,,677241,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,554000,,916980,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2654900,,4771529,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,780,Trinidad and Tobago,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,47350,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,648500,,1090867,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,64769,,111570,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4615684,,8307346,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6670755,,11472336,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,573652,,1144985,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,45123,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225000,,422616,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,37625,,23861,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,19148,,12672,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,247,,187,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,61198,,288849,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,33100,,14748,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,658158,,670249,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6200,,6964,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,800,,380,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,,,1881448,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3278,,2962,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,341,,483,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12754,,49936,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,105,,84,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,119,,171,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,92,,87,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,35630,,17392,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,80,,66,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12683,,8686,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,102968,,67568,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,487,,674,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,170,,237,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,96600,,165864,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,478,Mauritania,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,40937,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,198489,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,201580,,322218,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150000,,273248,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1296930,,2152510,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,949975,,1623800,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,23300,,41059,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,197389,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225000,,431977,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,524950,,866117,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,300,,785,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5606,,15574,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,50,Bangladesh,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,249975,,412934,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,102485,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7000,,13299,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,97,,233,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,26,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,43,,107,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,43289,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12041,,29198,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74950,,69541,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6,,16,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1307720,,2169517,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1124980,,1803482,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,149975,,245053,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1001203,,1688833,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74925,,123380,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,465625,,773259,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,999925,,1509697,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,88250,,190636,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,716,Zimbabwe,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,112499,,222007,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,4,Afghanistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,78744,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,524975,,871006,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,303952,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,26,,66,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,332,Haiti,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,156280,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,740975,,1195367,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1194,,3000,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,704,Viet Nam,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,334958,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,749925,,1254832,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,135100,,257761,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,36146,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,699,India,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,30787,,96946,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,463420,,508187,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,355348,,392538,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,27604,,95844,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,70,,54,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,82,,114,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10771,,39915,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,175,,141,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,195676,,125461,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,15402,,10471,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,47750,,30011,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,735,,560,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12653,,8500,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3085150,,1303382,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3176985,,1559300,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1914247,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,250,,187,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,15596,,10234,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,7325,,4511,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,6000,,4999,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,2029770,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,842244,,754328,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,469,,558,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,49975,,75065,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,525000,,786491,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,381,Italy,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,85,,209,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3110,,8339,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,764,Thailand,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,175000,,240197,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,36561,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,192,Cuba,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,224700,,390993,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2099800,,3710911,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,11066,,27402,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,33895,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,24500,,42511,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,127887,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,570000,,892099,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,121784,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,300000,,507047,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100250,,160940,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,624975,,1060585,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,747100,,1155967,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225000,,336474,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,32,Argentina,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,,,2,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,56,,324,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,343895,,396061,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1915809,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,32484,,109111,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,18099,,65987,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,12422,,8281,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,142,,111,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,100276,,63459,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,686,Senegal,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,53,,73,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,47997,,172140,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,11277,,62945,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,994653,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,373518,,405311,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1908416,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1559652,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3100,,1442,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1863908,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,588565,,622386,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,645791,,589754,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,219,,193,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,609,,828,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,500,,245,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21600,,15540,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1773,,845,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,111,,118,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,96,,132,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,188,,261,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,22958,,77569,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,537,,755,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,70,,53,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,81,,111,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,419054,,413885,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,0,,1898120,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,600714,,630529,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,31107,,52482,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,38841,,211525,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,620,Portugal,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,8,,13,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,521424,,556730,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,136,,189,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,108,,83,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,42747,,129381,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,208,Denmark,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,20563,,114478,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,,,2172202,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,70,,55,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,91,,129,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,,,1185579,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,724,Spain,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50,,142,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2472,,3634,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,67,,87,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19241,,47381,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,562379,,1106004,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,59569,,144633,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,756,,752,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,336,,320,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,,,1197650,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5930424,,10375228,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,18615,,45362,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6097267,,10655105,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,565766,,1072894,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5143234,,8790679,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,733102,,1430700,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4150460,,7171830,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4192367,,7852546,,,0
+HS,2018,201812,Dec-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,565024,,1110191,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5,,14,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,300000,,438087,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,750000,,1362060,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,165897,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,16000,,28289,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,11220,,22376,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,928975,,1544990,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,796,Turks and Caicos Isds,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,12,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,224,,480,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,152,Chile,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74900,,139311,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1449880,,2456177,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,199975,,334194,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,57051,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,788,Tunisia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,151573,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1550000,,2865759,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,178252,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,89898,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,182616,,379373,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6526,,16291,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,57091,,123040,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,331,,516,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1883,,4693,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,300,Greece,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,51,,95,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1193871,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,324920,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150000,,238089,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,596407,,1039593,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1305,,3332,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,123719,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,327171,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1008830,,1662658,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,500000,,765400,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,98,,211,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,199900,,322169,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,193200,,296031,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4328,,11105,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,56,,143,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,599950,,974057,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,874725,,1381051,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,340,Honduras,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,202426,,508991,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,716,Zimbabwe,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,83173,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,99975,,163165,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,174975,,281183,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,76,Brazil,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,42547,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,745118,,1293551,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,249,,3440,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,554,New Zealand,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,50,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,5,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,85,,281,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50,,105,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150000,,250525,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,400000,,680522,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,518,,1078,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,165917,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,31330,,77145,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,489450,,821129,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2000000,,3694643,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,108385,,207786,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,999975,,1805632,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,16000,,28153,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,704,Viet Nam,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,250000,,418792,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12702,,32707,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,752,Sweden,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,5,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,66,,88,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,804,Ukraine,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6,,6,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6504,,7977,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,41,,241,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,34,,46,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1861,,5767,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,561293,,1127952,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39842,,97125,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,318,,432,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,166,,429,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,64,,121,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,13,,24,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6,,12,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10062,,12590,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,432,,541,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,927,,2213,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1000,,4715,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,190,,191,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6,,8,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,283,,271,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,15,,40,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,332,Haiti,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,77499,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,764,Thailand,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,167697,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,425000,,745763,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1642300,,2701774,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,175000,,323801,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,208,Denmark,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74950,,122916,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,780,Trinidad and Tobago,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,43579,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,478,Mauritania,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,113219,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,41599,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,418,Lao People's Dem. Rep.,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2850,,3321,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,80247,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,125000,,214070,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,399925,,678966,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,250000,,401233,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,51,,131,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,49975,,84956,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,98,,213,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,557926,,1054881,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5222,,15971,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1207970,,2115036,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,650000,,1036483,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,764923,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,764147,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,562260,,1061548,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39713,,96763,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,686260,,1765086,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,56794,,138900,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,185,,257,,,0
+HS,2018,201802,Feb-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,248,,520,,,0
+HS,2018,201805,May-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,371,,671,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,203,,197,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,826,,1020,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,571,,957,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,744,,1652,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,22942,,28333,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,119076,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1204780,,2135834,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,918867,,1712605,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,330,,835,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,9,,22,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,250000,,450203,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,858,Uruguay,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,315143,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,478,Mauritania,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,150382,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,110000,,185033,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,221644,,325703,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,716,Zimbabwe,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,83167,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,168,,370,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,318200,,514324,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,249875,,418746,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225000,,605523,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,574875,,876376,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,153831,,256515,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1924850,,3134249,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,43145,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3281,,8296,,,0
+HS,2018,201805,May-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,39468,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,76,Brazil,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,85065,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,400000,,653705,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,93200,,136322,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,959000,,1520851,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,80194,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,400,Jordan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,160529,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,99975,,167787,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,24950,,45227,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,474875,,785495,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,449505,,770035,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1071,,2739,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,333716,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,192,Cuba,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2962,,10470,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,4,Afghanistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,90016,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,22,,54,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,152,Chile,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,45009,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,909098,,1701466,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,648846,,1144744,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,78764,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,14677,,36046,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,500000,,845154,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1600000,,2961105,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,21,,51,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,249950,,419652,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,48,Bahrain,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,40976,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,342094,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,31330,,75992,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,764,Thailand,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,226538,,497393,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,88278,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,266923,,621399,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,749975,,1361378,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,16000,,29713,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,7876,,19411,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,375000,,714613,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,150000,,255631,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,223075,,374574,,,0
+HS,2018,201812,Dec-18,4,0,2,Exports,124,Canada,,364,Iran,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,969,,2349,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1231183,,,0
+HS,2018,201809,Sep-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1263146,,,0
+HS,2018,201811,Nov-18,4,0,1,Imports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,,,1,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5956808,,9906840,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,37231,,90712,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,372,Ireland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,15,,35,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,381,Italy,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,60,,113,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,129,,174,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,739,,1856,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,85,,287,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,647000,,1046542,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,604,Peru,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,199975,,331768,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,156,China,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,10492,,27200,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,388,Jamaica,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,127225,,212531,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,49000,,83453,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,79653,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,702,Singapore,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,41614,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,83913,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,152,Chile,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75000,,136755,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,144,Sri Lanka,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,44627,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,350000,,560955,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,247893,,546820,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,392,Japan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,425000,,722526,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,260590,,499171,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,662,Saint Lucia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,20118,,21306,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,704,Viet Nam,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,525000,,886282,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,598,Papua New Guinea,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200000,,328012,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,15,,38,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,368,Iraq,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,46600,,78104,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,760,Syria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50000,,74790,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,12,Algeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,555667,,1034480,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,268,Georgia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,33368,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,112,,239,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,792,Turkey,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,85185,,163825,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,44,Bahamas,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,80471,,85224,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,382,,716,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1699,,5355,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,323,,433,,,0
+HS,2018,201808,Aug-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,102,,126,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1138862,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1137429,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,5,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,697669,,1787820,,,0
+HS,2018,201801,Jan-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4338297,,7465745,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,608,Philippines,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,714308,,1274470,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,44,Bahamas,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,18289,,19678,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100000,,162772,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,422,Lebanon,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74975,,169141,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,586,Pakistan,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25000,,36806,,,0
+HS,2018,201808,Aug-18,4,0,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,127800,,196493,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,473125,,843302,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,59568,,145162,,,0
+HS,2018,201811,Nov-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,183,,174,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1292611,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1186994,,,0
+HS,2018,201803,Mar-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8176568,,13450839,,,0
+HS,2018,201810,Oct-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,531,,510,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,300,,915,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,566,Nigeria,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4,,12,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5458,,6794,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,153,,191,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,818,Egypt,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,129,,174,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,381,Italy,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,30,,40,,,0
+HS,2018,201803,Mar-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,99,,519,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,411,,548,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,202,,192,,,0
+HS,2018,201802,Feb-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5910653,,10069510,,,0
+HS,2018,201807,Jul-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,475390,,848605,,,0
+HS,2018,201807,Jul-18,4,0,2,Exports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5940465,,9860841,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1075244,,,0
+HS,2018,201810,Oct-18,4,0,1,Imports,124,Canada,,0,World,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,0,,1077710,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,78,,115,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,336,,1172,,,0
+HS,2018,201804,Apr-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,112,,141,,,0
+HS,2018,201806,Jun-18,4,0,2,Exports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,39851,,97100,,,0
+HS,2018,201806,Jun-18,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,724176,,1416023,,,0
+HS,2018,201809,Sep-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,261,,250,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,764,,4178,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,458,Malaysia,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1,,2,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,505,,4885,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,616,Poland,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,23,,127,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8616,,11162,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,124,Canada,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,16,,,0
+HS,2018,201801,Jan-18,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1491,,2356,,,0
+HS,2018,201804,Apr-18,4,0,2,Exports,124,Canada,,251,France,,,,,,,,,402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,67,,66,,,0
