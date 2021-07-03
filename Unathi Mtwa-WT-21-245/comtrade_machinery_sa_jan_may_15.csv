@@ -1,0 +1,98 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,16843,,14589,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1501,,33229,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,694,Sierra Leone,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,8049,,25408,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,20396,,48706,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,164,,1197,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,10,,100,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,119,,5671,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,839,Special Categories,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,20,,19,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,2,,30,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,19374,,16168,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,10,,75,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,14100,,20211,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,4369,,5957,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,7,,2564,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,750,,4676,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,596,,5184,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,2709,,15629,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,5825,,9970,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,110,,1627,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1224,,18074,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,5208,,12949,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,35769,,36960,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,7784,,20890,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1315,,1771,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,20002,,48372,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,2506,,9066,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,124,Canada,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,6,,2,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,36,Australia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,30,,700,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,960,,3009,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,8852,,16159,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,4880,,18083,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,330,,1128,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1160,,8477,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,115812,,202873,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,18305,,52275,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,80,,55,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,15000,,23618,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,5662,,20263,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,841,,5223,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,30361,,17861,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,748,Swaziland,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,51,,1949,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,5,,2779,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,274,,3075,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1360,,28512,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,75000,,118655,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,300,,586,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,261,,3619,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,132,,447,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,528,Netherlands,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1,,429,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,64143,,42822,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,12073,,15124,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,140,Central African Rep.,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1,,169,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,690,Seychelles,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1,,13,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1082,,34948,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,500,,139,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,51,,5864,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,338,,5575,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,104,,845,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,100,,793,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,804,Ukraine,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,0,,10,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,710,South Africa,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1,,1,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,405,,292,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,20,,902,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,27,,371,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1230,,7671,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,7585,,18886,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,175,,6293,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,2360,,1659,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,9,,2730,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,854,Burkina Faso,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,125,,2777,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,528,Netherlands,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,67,,1457,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,13,,624,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,5,,5,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,694,Sierra Leone,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,40742,,73529,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,19958,,16310,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,208,,8101,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,12,,5488,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1038,,1585,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,4857,,7688,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,8,,70,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,29,,629,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,48533,,80261,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,118,,6630,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,2,,2764,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,97415,,124981,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,528,Netherlands,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,35,,1268,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,1187,,2118,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,204,Benin,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,11,,17,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,694,Sierra Leone,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,8,,329,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,229,,12773,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,17,,5099,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,71974,,130857,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,374,,10045,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,28,,3495,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,117,,10562,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,119,,6001,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,731412,"Iron or steel; woven cloth, endless bands for machinery, of stainless steel",,,,,,,186,,5859,,,0
