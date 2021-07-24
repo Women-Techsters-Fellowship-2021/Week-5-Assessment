@@ -1,0 +1,238 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,395538,,348023,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,297,,12,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,36,Australia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,143,,38,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,144970,,91978,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,430,,56,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,188,Costa Rica,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,297,,12,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,127359,,112426,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,61577,,52410,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,16243,,40964,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,705,Slovenia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,22195,,19157,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1512,,2319,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,18920,,26628,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1228,,1622,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,962,,425,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,380513,,314563,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,40,Austria,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,100,,48,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,63888,,32972,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,49876,,32495,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,203755,,187193,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1796,,6451,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,34511,,32645,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,705,Slovenia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,22195,,18693,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,2199,,1968,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,818,Egypt,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,812,,440,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,941,,1319,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,440,,340,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,526291,,413734,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,367,,171,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,231964,,148026,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,150,,22,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,78787,,84805,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,46025,,28848,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,100,,42,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,392,Japan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,200,,39,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,422,Lebanon,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3,,24,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,145459,,132408,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21012,,17241,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,8,,33,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1240,,1880,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1544,,405,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,167,,131,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,302739,,218604,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,142,,10,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,40,Austria,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,150,,30,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,114836,,66934,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,365,,107,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,94451,,70430,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,51720,,55491,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,590,,5917,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,92,,22,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10660,,4218,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,21790,,7405,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,620,Portugal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1556,,1370,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,3074,,4017,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,142,,10,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1652,,1517,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1804,,1147,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,336826,,219951,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,138233,,56370,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,232,,42,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,26000,,33313,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,102496,,96408,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,10,,55,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,410,Rep. of Korea,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,168,,21,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,19261,,15526,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,48098,,15659,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,93,,327,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1025,,1459,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,,,,,,,1209,,771,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,135004,,746897,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,27,,15,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,89473,,508537,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,13824,,33650,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,694,Sierra Leone,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,480,,5834,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,384,Côte d'Ivoire,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,71381,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,430,Liberia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,6240,,52532,,,0
+HS,2019,201904,April 2019,4,0,2,Exports,288,Ghana,,466,Mali,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,74948,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,757,Switzerland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,234000,,462727,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,579,Norway,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,20,,65,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,123826,,171179,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,699,India,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,800,,9152,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2846,,984,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,24531,,13643,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,161,,39,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,338057,,344804,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,391658,,405768,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,414,Kuwait,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,8,,58,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,422,Lebanon,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,327,,241,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,430,Liberia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,114,,26,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,324000,,745716,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,107,,5,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,62,,351,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,235,,333,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,768,Togo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3037,,3426,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,784,United Arab Emirates,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,110310,,111836,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,818,Egypt,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225,,84,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3379,,2341,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,80,,28,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,702,Singapore,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,962,,45,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,587808,,843992,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,682,Saudi Arabia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2,,10,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,939,,467,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,283912,,462566,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,98352,,86898,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,120,Cameroon,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,32,,21,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,304701,,609129,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,757,Switzerland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,216000,,427848,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,141457,,291305,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3089230,,5505285,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,894,Zambia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,65,,23,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,96000,,207827,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,652,,1740,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,387,,214,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,768,Togo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2284,,2270,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,818,Egypt,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,85,,17,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,22865,,9795,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,16,American Samoa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,109,,13,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,551,,105,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,299923,,573335,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,478,,88,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,152,Chile,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,72,,84,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,156,China,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,805,,134,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,32000,,69639,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,326139,,622793,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,300,Greece,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50,,37,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,27000,,26311,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,381,Italy,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,64,,58,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,442,Luxembourg,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,44,,178,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,665168,,501983,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,504,Morocco,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,16000,,24978,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,512,Oman,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,20,,44,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,525,,252,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,279379,,633985,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,783285,,1141526,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,757,Switzerland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,192750,,372347,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,917,,935,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,699,India,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,203,,127,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,364838,,742641,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,504,Morocco,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1264000,,1910032,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,19025,,88697,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,842427,,2032853,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1284456,,1724738,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,197790,,454153,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,74184,,68634,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,199457,,377133,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,541975,,1283206,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,381,Italy,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100,,178,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,384,Côte d'Ivoire,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,514,,2204,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5692,,5236,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,470,,526,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,768,Togo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25692,,24050,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,784,United Arab Emirates,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,18850,,18800,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,804,Ukraine,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,21906,,4900,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4943,,4115,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,437,,87,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,942043,,811283,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,353,,278,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,156,China,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,935,,146,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,78000,,119185,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,64198,,148224,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,5684200,,9197425,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,399581,,1478414,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,109311,,625038,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,384,Côte d'Ivoire,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,31200,,188014,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,392,Japan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100,,5,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,466,Mali,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,74770,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,244570,,576408,,,0
+HS,2019,201905,May 2019,4,0,2,Exports,288,Ghana,,694,Sierra Leone,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1920,,14178,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4068,,2039,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2688043,,3978102,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,81687,,320897,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,579,Norway,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200,,228,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,430,Liberia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1920,,14028,,,0
+HS,2019,201901,January 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,129825,,158406,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,41472,,101241,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,694,Sierra Leone,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1750,,5300,,,0
+HS,2019,201901,January 2019,4,0,2,Exports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,36545,,200328,,,0
+HS,2019,201903,March 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2727007,,4138747,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,249194,,717562,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,842,United States of America,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,4904,,2321,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,72793,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1333,,1446,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,205286,,490808,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,230,,121,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,384,Côte d'Ivoire,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,73991,,,0
+HS,2019,201903,March 2019,4,0,2,Exports,288,Ghana,,466,Mali,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,76082,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2972685,,5075890,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,672000,,1700141,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,25,,333,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,362,,841,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1258,,498,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,768,Togo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,28540,,17538,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,792,Turkey,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,50,,23,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,804,Ukraine,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,21910,,8068,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3642,,4107,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,200723,,426810,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,105664,,103587,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,381,Italy,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,40583,,62418,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,100,,117,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,194800,,90250,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,207,,34,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,94328,,208948,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,226,Equatorial Guinea,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,80,,22,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,255013,,296617,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,227692,,654726,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,562,Niger,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,125,,57,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,528824,,680972,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,234380,,175249,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,392,Japan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,2,,24,,,0
+HS,2019,201904,April 2019,4,0,1,Imports,288,Ghana,,422,Lebanon,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,886,,401,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,36,Australia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,138,,177,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,56,Belgium,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,35342,,168337,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,124,Canada,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,3,,33,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,208,Denmark,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,47725,,107282,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,246,Finland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,153,,11,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,702,Singapore,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,26380,,13581,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,710,South Africa,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1062,,3371,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,724,Spain,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,499,,512,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,768,Togo,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1179,,2292,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,792,Turkey,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,22030,,7637,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,818,Egypt,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,225,,87,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,826,United Kingdom,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,306739,,721861,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,276,Germany,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,75454,,148048,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,372,Ireland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,612702,,959726,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,458,Malaysia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,189624,,177146,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,528,Netherlands,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,217626,,208609,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,554,New Zealand,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,313175,,736836,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,566,Nigeria,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,465016,,683201,,,0
+HS,2019,201902,February 2019,4,0,1,Imports,288,Ghana,,616,Poland,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,112000,,238259,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,0,World,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,473216,,1320729,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,686,Senegal,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,422945,,997130,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,694,Sierra Leone,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,1440,,10519,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,384,Côte d'Ivoire,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,75596,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,392,Japan,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,60,,50,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,430,Liberia,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,12480,,104789,,,0
+HS,2019,201902,February 2019,4,0,2,Exports,288,Ghana,,854,Burkina Faso,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,23811,,132646,,,0
+HS,2019,201905,May 2019,4,0,1,Imports,288,Ghana,,251,France,,,,,,,,,0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,,,,,,,96754,,118768,,,0
